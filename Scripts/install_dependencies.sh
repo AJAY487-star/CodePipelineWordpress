@@ -4,6 +4,6 @@ apt install apache2 -y
 
 apt install php -y
 
-apt install php-mysql
+apt install php-mysql -y
 
 
